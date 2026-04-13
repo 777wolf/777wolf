@@ -28,13 +28,9 @@ Focus: SOC Operations · Detection Engineering · Active Directory Security
 ---
 
 ## Badges
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat-square&logo=tryhackme&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=flat-square&logo=splunk)
-![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-orange?style=flat-square)
-![AD](https://img.shields.io/badge/Active%20Directory-Security-blue?style=flat-square&logo=microsoft)
-![Python](https://img.shields.io/badge/Python-Script-yellow?style=flat-square&logo=python)
-
+https://tryhackme.com/vaishnavt700/badges/wireshark?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6700fbc9ad29f47e866c0d82
+https://tryhackme.com/vaishnavt700/badges/phishing?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6700fbc9ad29f47e866c0d82  
+https://tryhackme.com/vaishnavt700/badges/network-hog?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6700fbc9ad29f47e866c0d82
 [![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/vaishnavt700.png)](https://tryhackme.com/p/vaishnavt700)
 
 ---
