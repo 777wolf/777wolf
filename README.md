@@ -25,16 +25,6 @@ Focus: SOC Operations · Detection Engineering · Active Directory Security
 | ELK Stack | Wireshark | Active Directory | Bash |
 | Sigma Rules | Hydra | TryHackMe SOC L1 | PowerShell |
 
----
-
-## Badges
-https://tryhackme.com/vaishnavt700/badges/wireshark?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6700fbc9ad29f47e866c0d82
-https://tryhackme.com/vaishnavt700/badges/phishing?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6700fbc9ad29f47e866c0d82  
-https://tryhackme.com/vaishnavt700/badges/network-hog?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6700fbc9ad29f47e866c0d82
-[![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/vaishnavt700.png)](https://tryhackme.com/p/vaishnavt700)
-
----
-
 ## GitHub Stats
 
 ![Wolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=777wolf&show_icons=true&theme=dark&hide_border=true)
