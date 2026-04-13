@@ -1,38 +1,77 @@
-# Hi, I'm Wolf (Tushar) — Cyber Student & SOC Enthusiast
-Hunting threats | Building detections | Breaking things (legally)
-BCA Final Year @ DSEU Delhi | Specialization: Cybersecurity
-Focus: SOC Operations · Detection Engineering · Active Directory Security
-📍 New Delhi, IN &nbsp;&nbsp; 🎯 Actively seeking SOC Analyst Internship 2026
+```
+ ██╗    ██╗ ██████╗ ██╗     ███████╗
+ ██║    ██║██╔═══██╗██║     ██╔════╝
+ ██║ █╗ ██║██║   ██║██║     █████╗
+ ██║███╗██║██║   ██║██║     ██╔══╝
+ ╚███╔███╔╝╚██████╔╝███████╗██║
+  ╚══╝╚══╝  ╚═════╝ ╚══════╝╚═╝
+```
+
+```bash
+root@github:~$ whoami
+> Wolf // Tushar Kumar Swami
+> BCA Final Year @ DSEU Delhi
+> Specialization : Cybersecurity
+> Focus          : SOC Operations | Detection Engineering | AD Security
+> Location       : New Delhi, IN
+> Status         : [ ACTIVELY HUNTING SOC INTERNSHIP 2026 ]
+```
 
 ---
 
-## About me
+```bash
+root@github:~$ cat skills.txt
 
-- 🔐 SOC Level 1 path on TryHackMe — **top 3% globally** | [0xA][WIZARD]
-- 🛡️ Built brute-force detection lab using Splunk SIEM + Hydra + Nmap
-- 🖥️ Built Active Directory security monitoring lab with MITRE ATT&CK mapping
-- 📜 Google Cybersecurity Certificate | SOC Apprentice badge
-- 🏢 Virtual simulations: Mastercard, Deloitte, TCS
-- 🌱 Documenting my dad's organic farm on YouTube on the side
-
----
-
-## Tools & Skills
-
-| SIEM / Detection | Network & Recon | Frameworks | Languages |
-|---|---|---|---|
-| Splunk | Nmap | MITRE ATT&CK | Python |
-| ELK Stack | Wireshark | Active Directory | Bash |
-| Sigma Rules | Hydra | TryHackMe SOC L1 | PowerShell |
-
-## GitHub Stats
-
-![Wolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=777wolf&show_icons=true&theme=dark&hide_border=true)
+SIEM / Detection ....... Splunk · ELK · Sigma Rules · YARA
+Network & Recon ......... Nmap · Wireshark · Hydra · Burp Suite
+Frameworks .............. MITRE ATT&CK · Active Directory
+Languages ............... Python · Bash · PowerShell
+Platform ................ TryHackMe [TOP 3%] [0xA][WIZARD]
+```
 
 ---
 
-## Connect
+```bash
+root@github:~$ ls -la labs/
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-777wolf.github.io-blueviolet?style=flat-square)](https://777wolf.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-vaishnavt700-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/vaishnavt700)
+drwxr-xr-x  soc-splunk-brute-force-detection   [ Splunk + Hydra + Nmap ]
+drwxr-xr-x  ad-security-monitoring-lab          [ MITRE ATT&CK mapped  ]
+drwxr-xr-x  thm-soc-level1-notes                [ In progress...       ]
+drwxr-xr-x  detection-rules                     [ Sigma / SPL          ]
+drwxr-xr-x  ctf-writeups                        [ TryHackMe rooms      ]
+```
+
+---
+
+```bash
+root@github:~$ cat certs.log
+
+[+] Google Cybersecurity Certificate        VERIFIED
+[+] TryHackMe SOC Apprentice Badge          VERIFIED
+[+] Mastercard Cybersecurity Simulation     VERIFIED
+[+] Deloitte Security Simulation            VERIFIED
+[+] TCS Simulation                          VERIFIED
+[~] TryHackMe SOC Level 1                   IN PROGRESS...
+```
+
+---
+
+```bash
+root@github:~$ ping me
+
+PING  777wolf.github.io ............. reachable
+PING  linkedin.com/in/YOUR-URL ....... reachable
+PING  tryhackme.com/p/vaishnavt700 .. reachable
+```
+
+---
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat-square&logo=tryhackme&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=flat-square&logo=splunk)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-orange?style=flat-square)
+![AD](https://img.shields.io/badge/Active%20Directory-Security-blue?style=flat-square&logo=microsoft)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow?style=flat-square&logo=python)
+
+[![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/vaishnavt700.png)](https://tryhackme.com/p/vaishnavt700)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=777wolf&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353)
