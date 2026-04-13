@@ -60,7 +60,7 @@ root@github:~$ cat certs.log
 root@github:~$ ping me
 
 PING  777wolf.github.io ............. reachable
-PING  linkedin.com/in/YOUR-URL ....... reachable
+PING  linkedin.com/in/www.linkedin.com/in/tushar-kumar-swami-785664296 ....... reachable
 PING  tryhackme.com/p/vaishnavt700 .. reachable
 ```
 
@@ -73,5 +73,3 @@ PING  tryhackme.com/p/vaishnavt700 .. reachable
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow?style=flat-square&logo=python)
 
 [![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/vaishnavt700.png)](https://tryhackme.com/p/vaishnavt700)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=777wolf&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353)
